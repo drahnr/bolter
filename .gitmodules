@@ -1,0 +1,3 @@
+[submodule "elfkit"]
+	path = elfkit
+	url = https://github.com/aep/elfkit.git
